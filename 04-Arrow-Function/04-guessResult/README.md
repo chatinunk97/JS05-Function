@@ -4,3 +4,4 @@
 const logName = (name) => console.log(name);
 const logName = name => console.log(name);
 ```
+The same cause for the Parameter you may have or not have () for it
