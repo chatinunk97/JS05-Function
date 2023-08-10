@@ -8,3 +8,4 @@ function getLongText() {
 
 console.log(getLongText()); // *
 ```
+// Nothing -> when function runs in to "return" it ends itself 
