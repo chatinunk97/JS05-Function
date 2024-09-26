@@ -8,3 +8,5 @@ function sayHi() {
 name = 'Pete';
 sayHi(); // *
 ```
+//Pete cause there's no local variable to be used for name
+-> therefore it goes to the global one

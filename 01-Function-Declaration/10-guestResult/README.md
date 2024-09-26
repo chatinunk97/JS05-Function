@@ -4,6 +4,6 @@
 function sayHi(age) {
     if (age < 12) alert('Hi kid');
 }
-console.log(sayHi); // *
-console.log(sayHi(10)); // **
+console.log(sayHi); // *  nothing need a () after a function to execute it
+console.log(sayHi(10)); // ** --> Hi Kid
 ```

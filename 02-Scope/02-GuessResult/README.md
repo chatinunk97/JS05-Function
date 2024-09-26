@@ -10,3 +10,6 @@ if (true) {
 }
 sayHi(); // *
 ```
+Hello John 
+there's user to be used ; John but there's no for variable phrase
+so it goes to the global one ; Hello

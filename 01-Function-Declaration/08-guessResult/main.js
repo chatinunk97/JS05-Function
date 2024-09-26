@@ -1,0 +1,1 @@
+//Undefined since there's no return value nor console.log/alert function used in the function

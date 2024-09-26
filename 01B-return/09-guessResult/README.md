@@ -4,8 +4,8 @@
 function sayHi(age) {
   if (age < 12) alert("Hi kid");
 }
-console.log(sayHi); // *
-console.log(sayHi(10)); // **
+console.log(sayHi); // * Nothing sayHi needs a () to execute
+console.log(sayHi(10)); // ** Hi kid
 ```
 
 <!-- ```js
